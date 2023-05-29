@@ -1,6 +1,6 @@
 # Phoenix Senior Assasin
 
-Couple of python scripts that made organizing the Class of 2022's senior assasin much easiser. 
+Couple of python scripts that made organizing the Class of 2022's senior assasin much easier. 
 
 Purpose of the scripts
 - Automatically matches random targets to the players stil alive in the game
