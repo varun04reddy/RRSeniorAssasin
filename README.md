@@ -1,4 +1,4 @@
-# Phoenix Senior Assasin
+# Phoenix Senior Assassin
 
 Couple of python scripts that made organizing the Class of 2022's senior assasin much easier. 
 
